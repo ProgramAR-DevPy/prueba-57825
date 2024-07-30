@@ -1,6 +1,10 @@
 # Git: ¡Tu Máquina del Tiempo para el Código! ⏰
 
-- Imagina que estás escribiendo una novela 📖. A medida que avanzas, haces cambios, agregas capítulos, corriges errores... ¿Y si pudieras guardar instantáneas de tu novela en diferentes momentos, para poder volver atrás si te equivocas o quieres comparar versiones? ¡Eso es lo que hace Git!
+- Imagina que estás escribiendo una novela 📖. A medida que avanzas, haces cambios, agregas capítulos, corriges errores... ¿Y si pudieras guardar instantáneas de tu novela en diferentes momentos, para poder volver atrás si te equivocas o quieres comparar versiones? ¡Eso es lo que hace Git!.
+
+# SOY UN CRACK
+
+
 
 - Git es un sistema de control de versiones (VCS) que te permite llevar un registro de los cambios en tus archivos a lo largo del tiempo. Es como tener una máquina del tiempo para tu código, ¡puedes viajar al pasado y restaurar versiones anteriores si es necesario! 🕰️
 
